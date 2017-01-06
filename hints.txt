@@ -1,0 +1,7 @@
+Hint: The solution requires two carefully chosen levels of brute-forcing.
+Both levels require only limited effort.
+In particular, you do not need a hash collision to solve this.
+
+Hint: Always make sure to save intermediary results.
+
+Hint: What does GHR stand for?
